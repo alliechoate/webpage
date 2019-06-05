@@ -47,15 +47,16 @@ pygmentsCodeFences=true
 [params.social]
   github = "https://github.com/alliechoate/"
   twitter = "https://twitter.com/alliemchoate/"
-  researchgate = "https://researchgate.com/alliechoate/"
+
 
 
 [params.contact]
   email = "achoate@mail.usf.edu"
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "e-mail: achoate@mail.usf.edu" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
+
 
 [[menu.main]]
   identifier = "about"

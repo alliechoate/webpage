@@ -1,9 +1,12 @@
 {{ partial "header" .}}
 
-<h1>{{ .Title | markdownify }}</h1>
+<h1>
+Welcome to my page!</h1>
 {{ .Content }}
 
-<h2>My Latest Job</h2>
+Thanks for stopping by my personal page! This is my ‘work in progress website’ where I hope to add new R-Code and other helpful resources (both clinical and statistics related). Feel free to e-mail me with questions!
+
+<h2></h2>
   {{ $pages := where site.RegularPages "Type" "in" .Site.Params.mainSections }}
   {{ range first 1 $pages }}
     {{ if in .Site.Params.mainSections "portfolio" }}
