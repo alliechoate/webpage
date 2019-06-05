@@ -1,6 +1,6 @@
 ---
-title: POST
-description: 'Posts Section'
+title: R Code
+description: 'R-Code Section'
 ---
 
-You'll add here a general introduction of your posts.
+A list of all my wonderful code I've accumulated.

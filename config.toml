@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://alliechoate.netlify.com/"
 languageCode = "en-us"
 title = "Allie Choate"
 theme = "personal-web"
@@ -66,15 +66,15 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
+  name = "Projects"
+  title = "Projects"
   url = "/portfolio/"
   weight = -110
 
 [[menu.main]]
   identifier = "blog"
-  name = "Post"
-  title = "Blog section"
+  name = "R Code"
+  title = "R-Code"
   url = "/post/"
   weight = -100
 

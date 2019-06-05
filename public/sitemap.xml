@@ -10,14 +10,14 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/post/r-code/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/r-code/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,6 +38,13 @@
   </url>
   
   <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/techs/d3/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
@@ -47,13 +54,6 @@
     <loc>/designs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/portfolio/</loc>
-    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
@@ -135,6 +135,11 @@
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
