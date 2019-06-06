@@ -4,27 +4,34 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/irt-in-mirt/</loc>
-    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <loc>/post/awesome-free-r-resources-on-the-web/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/post/r-code/</loc>
-    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <loc>/post/test/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/post/psychometrics-material-homework-code/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -53,12 +60,6 @@
   
   <url>
     <loc>/home/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/post/r-code/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

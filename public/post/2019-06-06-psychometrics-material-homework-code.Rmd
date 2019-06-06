@@ -1,0 +1,83 @@
+---
+title: Psychometrics Material (Homework Code)
+author: Allie Choate
+date: '2019-06-06'
+slug: psychometrics-material-homework-code
+categories: []
+tags: []
+description: ~
+publishDate: '2019-06-06T11:39:36-04:00'
+---
+
+Here is a list of  R-code/R-Markdown files I have created for homework templates for our Psychometrics course at USF! To keep things clean, I've attached links that will take you to a seperate Rpub file where I have posted the Rmarkdown files. 
+
+<!--more-->
+
+
+<br>
+
+**Basic Plotting and Data Structure:**
+
+[Psychometrics Lesson 1](http://rpubs.com/alliechoate/502660)
+
+<br>
+
+**Differential Prediction**
+
+[Psychometrics Lesson 2](http://rpubs.com/alliechoate/502715)
+
+<br>
+
+**Intro to Factor Analysis**
+
+[Psychometrics Lesson 3](http://rpubs.com/alliechoate/502714)
+
+<br>
+
+**CFA & Hierarchical Latent Variable Models**
+
+[Psychometrics Lesson 4](http://rpubs.com/alliechoate/502716)
+
+<br>
+
+**Correlated Uniqueness & MTMM**
+
+[Psychometrics Lesson 5](http://rpubs.com/alliechoate/502717)
+
+<br>
+
+**Higher-Order, Bifactor, SL Transformation, & Measurement Invariance Testing**
+
+[Psychometrics Lesson 6](http://rpubs.com/alliechoate/502711)
+
+<br>
+
+**Measurement Invariance Testing in Lavaan**
+
+[Psychometrics Lesson 7](http://rpubs.com/alliechoate/502719)
+
+<br>
+
+**Intro to DIF/MIMIC models**
+
+[Psychometrics Lesson 8](http://rpubs.com/alliechoate/502664)
+
+<br>
+
+**Mediation and Path Analysis**
+
+[Psychometrics Lesson 9](http://rpubs.com/alliechoate/502710)
+
+<br>
+
+**Intro to MLM**
+
+[Psychometrics Lesson 10](http://rpubs.com/alliechoate/502708)
+
+<br>
+
+**Repeated Measures ANOVA & LGM**
+
+[Psychometrics Lesson 11](http://rpubs.com/alliechoate/502658)
+
+
