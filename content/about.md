@@ -5,10 +5,12 @@ images: ["/images/TJ.jpg"]
 ---
 
 Hi! My name is Allie and I am an incoming third year student in the Clinical Psychology PhD program at the University of South Florida. I work under the mentorship of Dr. Marina Bornovalova, and I am broadly interested in researching personality pathology and other externalizing behaviors. Feel free to check out our lab website here: [Dexter Lab](https://sites.google.com/site/dexterresearchlab/home)
+<br?
 
+To view my CV, click [here](https://drive.google.com/file/d/1YQmDPkmclBLfb7_futzazynfCyC9mMJz/view?usp=sharing)
 <br>
 
-I made this website primarily to add new materials I make or come across to not only keep myself organized, but to also provide free materials that may or may not be helpful for other researchers! Enjoy!  
+I made this website primarily to add new materials I make or come across to not only keep myself organized, but to also provide free materials that may or may not be helpful for other researchers!
 
 <br>
 <br>
