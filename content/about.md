@@ -18,4 +18,4 @@ I made this website primarily to add new materials I make or come across to not 
 
 
 
-{{< figure src="/post/images/TJ.jpg" caption="Photo by Tim Mossholder on Unsplash" >}}
+{{< figure src="/post/images/TJ.jpg" caption="TJ and His R Code" >}}
