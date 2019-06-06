@@ -3,10 +3,7 @@ title: Current Projects
 description: 'Portfolio Section'
 ---
 
-Current Research projects
+Current Research projects [will update this sooner or later :) ]
+<br>
 
-1.
 
-2.
-
-3.
