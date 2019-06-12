@@ -8,4 +8,7 @@ tags: []
 description: ~
 ---
 
-### Coming soon!
+I made a quick reference sheet for R commands/functions I find myself frequently using (or needing to google), in addition to other helpful commands for beginners! I will be updating this frequently as I come across other helpful tips or tricks to make life easier when using R! :)
+
+
+[Cheat Sheet Here!](http://rpubs.com/alliechoate/504079)

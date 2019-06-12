@@ -53,5 +53,9 @@ Here are some links to awesome free R resources that I've come across. Many of t
 [Michael Clark's SEM Website](https://m-clark.github.io/sem/)
 
   * _This also has info on Mixture Models/IRT/LGC's, etc!_
+<br>
+
+[Sacha Epskamp's Website](http://sachaepskamp.com/)
+
 
 
