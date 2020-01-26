@@ -2,11 +2,18 @@
 title: "Lab Materials - Intro to Regression/ANOVA"
 author: "Allie Choate"
 date: "1/26/2020"
-slug:
-output: html_document
+slug: regression-anova-materials-code
+categories: []
+tags: []
+description: ~
 ---
 
+Links are listed below for my powerpoint slides and homework assignments that I created for our intro to regression/anova statistics course. Feel free to e-mail me if you would like the corresponding data/answer key for any of the assignments!
 
+<!--more-->
+
+
+<br>
 
 **Lab 1 - Intro to R and RMarkdown**
 
@@ -27,4 +34,4 @@ output: html_document
 
 <br>
 
-More to be loaded soon...
+More to be uploaded soon...
