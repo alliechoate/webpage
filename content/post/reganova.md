@@ -1,7 +1,16 @@
-
+---
+title: Intro to Regression/Anova Course Materials
+author: Allie Choate
+date: '2020-01-21'
+slug: reganova
+categories: []
+tags: []
+description: 'Intro to Regression/Anova'
+---
 
 Links are listed below for my powerpoint slides and homework assignments that I created for our intro to regression/anova statistics course. Feel free to e-mail me if you would like the corresponding data/answer key for any of the assignments!
 
+<!--more-->
 
 <br>
 

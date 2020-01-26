@@ -17,7 +17,7 @@ I am also interested in the application of different quanatative methodologies t
 
 
 #### Current Research Projects:
-
+<br>
 
   - Gender differences in psychopathy and BPD 
   
