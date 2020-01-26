@@ -6,11 +6,9 @@ description: 'Portfolio Section'
 
 ### Research Interests:
 
-Most of my research focuses on the intersection of personality pathology, particularly borderline personality disorder (BPD), and its role in substance use, criminal behavior, and fostering other forms of co-occurring psychopathology. 
+Most of my research focuses on the intersection of personality pathology (particularly borderline personality disorder) and its role in substance use, criminal behavior, and other co-occurring psychopathology. Additionally, a large portion of my work focuses on developmental theories behind co-occurring psychopathology and the 'p-factor.'
 
-I am also interested in the application of different quanatative methodologies to better understand the developmental trajectories of co-occurring psychopathology throughout adolescence into adulthood.    
-
-**A brief description of some of the current research projects I am working on can be found below:**
+**A brief description of some of my current research projects can be found below:**
       
 <br>
 
@@ -25,7 +23,7 @@ I am also interested in the application of different quanatative methodologies t
   
   - Examining indices of personality, psychopathology, and drug use in understanding criminal recidivism in violent compared to non-violent offenders
   
-  - Understanding treatment dropout in a clinical sample of drug using adults 
+  - Predictors of treatment dropout in a clinical sample of adults with a history of substance abuse
   
   
 <br><br>
