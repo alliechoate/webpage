@@ -3,5 +3,11 @@ title: HOME
 description: HOME
 ---
 
-Thanks for stopping by my personal page! 
-This is my 'work in progress website' where I hope to add new R-Code and other helpful resources (both clinical and statistics related). Feel free to e-mail me with questions.
+<br><br>
+
+Thanks for visiting my personal website! Here you'll find R-code from some of my personal research projects and class assignments, teaching materials I've created for our graduate level intro to regression/ANOVA course, and some  details about my current research projects/interests. Please feel free to e-mail me with questions!
+
+
+
+
+
