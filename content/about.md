@@ -8,8 +8,7 @@ Hi! My name is Allie, and I am a third year student in the Clinical Psychology P
 
 I am also interested in statistics and applying new quantitative methodologies to better understand psychological phenomena. I am an avid R user and have experience teaching R at the graduate level as well. I made this website primarily to host code/teaching materials I've made with the hope that some of these resources may or may not be helpful for other researchers and students in psychology! Please feel free to reach out to me with any questions about any of the materials! 
 
-<br>
-<br>
+<br><br>
 
 
 
