@@ -1,4 +1,4 @@
-baseURL = "https://alliechoate.netlify.com/"
+baseURL = "https://alliechoate.netlify.app/"
 languageCode = "en-us"
 title = "Allie Choate"
 theme = "personal-web"
@@ -51,8 +51,8 @@ pygmentsCodeFences=true
 
 
 [params.contact]
-  email = "achoate@mail.usf.edu"
-  text= "e-mail: achoate@mail.usf.edu" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "achoate@usf.edu"
+  text= "e-mail: achoate@usf.edu" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
