@@ -13,7 +13,6 @@ Most of my research focuses on the intersection of personality pathology (partic
 <br>
 
 
-
 #### Current Research Projects:
 <br>
 

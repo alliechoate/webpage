@@ -3,7 +3,7 @@ title: ABOUT
 description: About Me
 ---
 
-Hello! My name is Allie, and I am a third year clinical psychology PhD student at the University of South Florida. I completed my BA in psychology at the University of Missouri, and now work under the mentorship of Dr. Marina Bornovalova at USF in Tampa. Broadly speaking, I am interested in personality pathology and other externalizing beahviors, as well as the application of quantitative methodologies to better understand psychological phenomena. You can find out more about my research interests [here](https://alliechoate.netlify.com/portfolio/), or view my CV [here](https://drive.google.com/file/d/1ozeP0N0JMMzJpPgZpo8-F-zTyFWw_j1A/view?usp=sharing).
+Hello! My name is Allie, and I am a third year clinical psychology PhD student at the University of South Florida. I completed my BA in psychology at the University of Missouri, and now work under the mentorship of Dr. Marina Bornovalova at USF in Tampa. Broadly speaking, I am interested in personality pathology and other externalizing beahviors, as well as the application of quantitative methodologies to better understand psychological phenomena. You can find out more about my research interests [here](https://alliechoate.netlify.app/portfolio/), or view my CV [here](https://drive.google.com/file/d/1ozeP0N0JMMzJpPgZpo8-F-zTyFWw_j1A/view?usp=sharing).
 
 
 **Statistics and Coding Experience:**
