@@ -19,11 +19,16 @@ Most of my research focuses on the intersection of personality pathology (partic
 
   - Gender differences in psychopathy and BPD 
   
-  - Investigating dynamic mutualism theory in the development of the general psychopathology factor
+  - Dynamic mutualism theory as a plausible explanation behind the development of the general p-factor
   
-  - Examining indices of personality, psychopathology, and drug use in understanding criminal recidivism in violent compared to non-violent offenders
+  - Relationship between personality, psychopathology, and drug use for understanding criminal recidivism
+  in violent compared to non-violent offenders
   
-  - Predictors of treatment dropout in a clinical sample of adults with a history of substance abuse
+  - Personality predictors of treatment dropout 
+  
+  - Affective state transitions and associations with use of emotion regulation strategies 
+  
+  - Simulation work of affective dyanmics in individuals with low distress tolerance and high emotional dysregulation
   
   
 <br><br>
