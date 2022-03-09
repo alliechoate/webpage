@@ -16,6 +16,14 @@ Here are some links to awesome free R resources that I've come across. Many of t
 
 ## Helpful General R-Books/Tutorials 
 
+
+[Data wrangling, exploration, and analysis with R by Jenny Bryan](https://stat545.com/)
+
+  * Awesome resource for a variety of tips/tricks for cleaning/analyzing data in R.
+  
+  * Also has some resources for learning Git/GitHub and R Markdown!
+
+
 [Learning Statistics with R by Danielle Navarro](https://learningstatisticswithr.com/)
 
   * Probably one of my absolute favorites!
@@ -106,3 +114,13 @@ Here are some links to awesome free R resources that I've come across. Many of t
 
 
 
+
+### GitHub Specific Resources
+
+
+[Code With Chris](https://codewithchris.com/github-tutorial/)
+
+
+[Dr. Garrison's Data Science Course Resources](https://datascience4psych.github.io/DataScience4Psych/shorthappygit.html)
+
+  * Website has some helpful R resources that go beyond GitHub as well!

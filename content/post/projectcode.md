@@ -9,14 +9,16 @@ description: 'resources'
 ---
 
 
-Below are links to various R code scripts associated with different research projects. 
+Below are links to various R code scripts associated with some of my ongoing or published research projects. 
+
+
 
 <!--more-->
 
 
-## How does emotion regulation change during psychotherapy?
+### How does emotion regulation change during psychotherapy?
 
-[OSF Link to R Code](https://osf.io/85a4s/
+[OSF Link to R Code](https://osf.io/85a4s/)
 
 
 
@@ -26,8 +28,10 @@ Below are links to various R code scripts associated with different research pro
 
 
 
+<br><br>
 
-## Alternative Model of Personality Disorders Predicts Unsuccessful Inpatient Addictions Treatment Completion
+
+### Alternative Model of Personality Disorders Predicts Unsuccessful Inpatient Addictions Treatment Completion
 
 Citation: Choate, A. M., Gorey, C., Rappaport, L. M., Wiernik, B. M., & Bornovalova, M. A. (2021). Alternative model of personality disorders traits predict residential addictions treatment completion. Drug and Alcohol Dependence, 228, 109011.
 
@@ -41,5 +45,10 @@ Citation: Choate, A. M., Gorey, C., Rappaport, L. M., Wiernik, B. M., & Bornoval
 [Link to OSF Code](https://osf.io/htc2v/)
 
 
+<br><br>
 
-Will be adding other code scripts here in the near future. 
+
+
+### Dynamic Mutualism and Borderline Personality Disorder
+
+ * I will be adding this code script in the near future!
