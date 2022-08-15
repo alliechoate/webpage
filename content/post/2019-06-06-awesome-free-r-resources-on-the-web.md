@@ -72,6 +72,9 @@ Here are some links to awesome free R resources that I've come across. Many of t
 [Creating Graphs/Plots Easily in R & Information About Plotting:](https://www.r-graph-gallery.com/)
 
 
+[Introduction to Data Science by Rafael Irizarry](https://rafalab.github.io/dsbook/)
+
+
 <br><br>
 
 
@@ -91,7 +94,7 @@ Here are some links to awesome free R resources that I've come across. Many of t
 
 
 
-<br><br>
+<br><br><br>
 
 
 ### SEM Specific Helpful Links
@@ -99,9 +102,10 @@ Here are some links to awesome free R resources that I've come across. Many of t
 [Dr. Hallquist's Intro to SEM using Lavaan](https://psu-psychology.github.io/r-bootcamp-2018/talks/lavaan_tutorial.html#estimators)
 <br>
 
-[Michael Clark's SEM Website](https://m-clark.github.io/sem/)
+[Dr. Michael Clark's SEM Website](https://m-clark.github.io/sem/)
 
-  * _This also has info on Mixture Models/IRT/LGC's, etc!_
+  * This also has info on Mixture Models/IRT/LGC's, etc!
+  
 <br>
 
 [Sacha Epskamp's Website](http://sachaepskamp.com/)
@@ -112,7 +116,34 @@ Here are some links to awesome free R resources that I've come across. Many of t
 [Structural Equation Modeling in R using lavaan by Alison Schreiber](https://quantdev.ssri.psu.edu/sites/qdev/files/lavaan_presentation.html)
 
 
+[Data Analysis Posts & Tutorials by Ian Ruginski](https://www.ianruginski.com/post/)
 
+
+[Latent Variable Modeling using R: A Step-By-Step Guide](https://blogs.baylor.edu/rlatentvariable/sample-page/r-syntax/)
+
+
+[Structural Equation Modeling With lavaan](https://pages.mtu.edu/~shanem/psy5220/daily/Day22/cfa.html)
+
+
+<br><br><br>
+
+
+### Longitudinal Models - Code & Resources 
+
+If you are looking for a *great* resource that has a ton of code examples for BOTH lavaan and Mplus,  check out the Personality Development Collaborative website that also has recommended readings for several types of models as well.
+
+[Personality Development Collaborative](https://www.personalitydevelopmentcollaborative.org/data-analysis/)
+
+<br>
+
+Additionally, Dr. Newsom has some fantastic code examples published on his website that have more thorough explanations in his Longitudinal SEM textbook.
+
+[Dr. Newsom's Longitudinal Structural Equation Modeling: A Comprehensive Introduction](http://www.longitudinalsem.com/)
+
+Dr. Newsom also has topics published on his website related to multiple regression and other multivariate methods and can be found [here.](https://web.pdx.edu/~newsomj/mvclass/)
+
+
+<br><br><br>
 
 
 ### GitHub Specific Resources
