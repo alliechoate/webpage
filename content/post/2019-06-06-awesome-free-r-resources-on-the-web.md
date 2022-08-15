@@ -15,7 +15,7 @@ Here are some links to awesome free R resources that I've come across. Many of t
 
 
 ## Helpful General R-Books/Tutorials 
-
+***
 
 [Data wrangling, exploration, and analysis with R by Jenny Bryan](https://stat545.com/)
 
@@ -42,7 +42,7 @@ Here are some links to awesome free R resources that I've come across. Many of t
   * This has so many fantastic tutorials! And videos!!
 
 
-[Hadley Wickman's Advanced R Book - so awesome it's scary that this is free](https://adv-r.hadley.nz/)
+[Hadley Wickman's Advanced R Book - An Amazing Resource!](https://adv-r.hadley.nz/)
 
 
 [Russel Poldrack's Statistical Thinking for the 21st Century](http://statsthinking21.org/index.html)
@@ -79,8 +79,9 @@ Here are some links to awesome free R resources that I've come across. Many of t
 
 
 ### RMarkdown Resources
+***
 
-[R Markdown: The Definitive Guide, by Yihui Xie, J. J. Allaire, Garrett Grolemund](https://bookdown.org/yihui/rmarkdown/)
+[R Markdown: The Definitive Guide, by Yihui Xie, J. J. Allaire, & G. Grolemund](https://bookdown.org/yihui/rmarkdown/)
 
 
 [Introduction to R Markdown by Dr. Michael Clark](https://m-clark.github.io/Introduction-to-Rmarkdown/)
@@ -93,11 +94,11 @@ Here are some links to awesome free R resources that I've come across. Many of t
 
 
 
-
-<br><br><br>
+<br><br>
 
 
 ### SEM Specific Helpful Links
+***
 
 [Dr. Hallquist's Intro to SEM using Lavaan](https://psu-psychology.github.io/r-bootcamp-2018/talks/lavaan_tutorial.html#estimators)
 <br>
@@ -106,8 +107,7 @@ Here are some links to awesome free R resources that I've come across. Many of t
 
   * This also has info on Mixture Models/IRT/LGC's, etc!
   
-<br>
-
+  
 [Sacha Epskamp's Website](http://sachaepskamp.com/)
 
 
@@ -119,35 +119,35 @@ Here are some links to awesome free R resources that I've come across. Many of t
 [Data Analysis Posts & Tutorials by Ian Ruginski](https://www.ianruginski.com/post/)
 
 
-[Latent Variable Modeling using R: A Step-By-Step Guide](https://blogs.baylor.edu/rlatentvariable/sample-page/r-syntax/)
+[Latent Variable Modeling Using R: A Step-By-Step Guide](https://blogs.baylor.edu/rlatentvariable/sample-page/r-syntax/)
 
 
-[Structural Equation Modeling With lavaan](https://pages.mtu.edu/~shanem/psy5220/daily/Day22/cfa.html)
+[Structural Equation Modeling with lavaan](https://pages.mtu.edu/~shanem/psy5220/daily/Day22/cfa.html)
 
 
 <br><br><br>
 
 
 ### Longitudinal Models - Code & Resources 
+***
 
 If you are looking for a *great* resource that has a ton of code examples for BOTH lavaan and Mplus,  check out the Personality Development Collaborative website that also has recommended readings for several types of models as well.
 
 [Personality Development Collaborative](https://www.personalitydevelopmentcollaborative.org/data-analysis/)
 
-<br>
+Additionally, Dr. Newsom has some **fantastic** code examples published on his website that have more thorough explanations in his Longitudinal SEM textbook (see below!)
 
-Additionally, Dr. Newsom has some fantastic code examples published on his website that have more thorough explanations in his Longitudinal SEM textbook.
+[Longitudinal Structural Equation Modeling: A Comprehensive Introduction](http://www.longitudinalsem.com/)
 
-[Dr. Newsom's Longitudinal Structural Equation Modeling: A Comprehensive Introduction](http://www.longitudinalsem.com/)
+  * Dr. Newsom also has topics published on his website related to multiple regression and other
+  multivariate methods and can be found [here.](https://web.pdx.edu/~newsomj/mvclass/)
 
-Dr. Newsom also has topics published on his website related to multiple regression and other multivariate methods and can be found [here.](https://web.pdx.edu/~newsomj/mvclass/)
 
-
-<br><br><br>
+<br><br>
 
 
 ### GitHub Specific Resources
-
+***
 
 [Code With Chris](https://codewithchris.com/github-tutorial/)
 
