@@ -1,7 +1,7 @@
 ---
 title: Free R-Resources On the Web!
 author: Allie Choate
-date: '2019-06-06'
+date: '2022-08-15'
 slug: awesome-free-r-resources-on-the-web
 categories: []
 tags: []
@@ -101,12 +101,11 @@ Here are some links to awesome free R resources that I've come across. Many of t
 ***
 
 [Dr. Hallquist's Intro to SEM using Lavaan](https://psu-psychology.github.io/r-bootcamp-2018/talks/lavaan_tutorial.html#estimators)
-<br>
 
 [Dr. Michael Clark's SEM Website](https://m-clark.github.io/sem/)
 
   * This also has info on Mixture Models/IRT/LGC's, etc!
-  
+
   
 [Sacha Epskamp's Website](http://sachaepskamp.com/)
 
@@ -139,7 +138,7 @@ Additionally, Dr. Newsom has some **fantastic** code examples published on his w
 
 [Longitudinal Structural Equation Modeling: A Comprehensive Introduction](http://www.longitudinalsem.com/)
 
-  * Dr. Newsom also has topics published on his website related to multiple regression and other
+  * Dr. Newsom also has topics published on his website related to multiple regression & 
   multivariate methods and can be found [here.](https://web.pdx.edu/~newsomj/mvclass/)
 
 
